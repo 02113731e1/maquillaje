@@ -1,0 +1,36 @@
+
+
+.negritas{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-1 {
+    display: inline-block;
+    padding: 13px 25px;
+    background-color: #0e0d0d;
+    font-size: 17px;
+    color: #ffffff;
+    border-radius: 15px;
+    text-transform: capitalize;
+    box-shadow: 0 0 0 15 rgba(0, 0, 0, 0.02);
+}
+
+h4{
+    color: rgb(233, 10, 10);
+    font-size: 100px;
+    line-height: 1;
+    color: #ec4710;
+    font-family: ´bebas neue´, sans-serif;
+    margin-bottom: 25px;
+}
+
+
+
+ h5{
+    height: 400px;
+    background-image: url("../img/fondo.avif");
+    background-position: center;
+    background-size: cover;
+
+ }
